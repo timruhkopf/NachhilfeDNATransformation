@@ -1,6 +1,5 @@
 # Burrows-Wheeler-Transformation 19.-23.07.2021 Programmierkurs
 
-import numpy as np
 
 sequenz = 'TACTGAGAT$'
 print(sequenz)
@@ -24,8 +23,6 @@ def rotation(String):
 
  
     return liste #Ergebnis der Funktion
-
-np.random.randint
 
 x1 = rotation(sequenz) #Call der Funktion
 
